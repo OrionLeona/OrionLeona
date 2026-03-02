@@ -48,9 +48,3 @@ a well-known hamster breeder, and a Genshin player.
 <img src="https://img.shields.io/badge/-Visual Studio Code-blue?style=flat-square&logo=Visual Studio Code"/>
 </div>
 
-## Support Me
-   AliPay  | WechatPay
--------- | -----
- ![支付宝支付](image.png) | ![微信支付](image-1.png)
-
-- BNB: 0x5baa2e6979a7f167da416b39bbf804343a23fe0a  
